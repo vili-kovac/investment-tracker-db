@@ -1,3 +1,7 @@
+
+# 🚧 Project Status: Active Development
+This repository is part of my current B.Sc. coursework.
+
 # 📈 Investment Banking Tracker
 
 A robust relational database schema designed for tracking multi-asset investment portfolios. This system supports stocks, cryptocurrencies, and bonds, maintaining a clean separation of asset trades and cash flows, along with built-in analytical views and historical tracking.
